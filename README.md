@@ -64,7 +64,6 @@ color:#DF013A;
 9번 문제</button>
 <br>
 <br>
-<br><br>
 <br>
 <br>
 <button type="button" onclick="location.href='https://defaultgroup.github.io/END/'">최종 정답으로</button>
