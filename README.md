@@ -67,6 +67,6 @@ color:#DF013A;
 <br><br>
 <br>
 <br>
-<button type="button" onclick="location.href='http://mwultong.blogspot.com/2007/01/html-css-text-align-tag.html'">최종 정답으로</button>
+<button type="button" onclick="location.href='https://defaultgroup.github.io/END/'">최종 정답으로</button>
 </body>
 </html>
