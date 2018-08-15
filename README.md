@@ -37,7 +37,7 @@ color:#DF013A;
 <h3>정답을 맞출 시에는 맛있는 케이크를 드립니다.</h3>
 <br>
 
-<button type="button" onclick="location.href='http://mwultong.blogspot.com/2007/01/html-css-text-align-tag.html'">
+<button type="button" onclick="location.href='https://defaultgroup.github.io/Number1/'">
 1번 문제</button>&emsp;&emsp;&emsp;
 <button type="button" onclick="location.href='http://mwultong.blogspot.com/2007/01/html-css-text-align-tag.html'">
 2번 문제</button>
