@@ -39,28 +39,28 @@ color:#DF013A;
 
 <button type="button" onclick="location.href='https://defaultgroup.github.io/Number1/'">
 1번 문제</button>&emsp;&emsp;&emsp;
-<button type="button" onclick="location.href='http://mwultong.blogspot.com/2007/01/html-css-text-align-tag.html'">
+<button type="button" onclick="location.href='https://defaultgroup.github.io/Number2/'">
 2번 문제</button>
 &emsp;&emsp;&emsp;
-<button type="button" onclick="location.href='http://mwultong.blogspot.com/2007/01/html-css-text-align-tag.html'">
+<button type="button" onclick="location.href='https://defaultgroup.github.io/Number3/'">
 3번 문제</button>
 <br>
 <br>
 <br>
-<button type="button" onclick="location.href='http://mwultong.blogspot.com/2007/01/html-css-text-align-tag.html'">
+<button type="button" onclick="location.href='https://defaultgroup.github.io/Number4/'">
 4번 문제</button>
-&emsp;&emsp;&emsp;<button type="button" onclick="location.href='http://mwultong.blogspot.com/2007/01/html-css-text-align-tag.html'">
+&emsp;&emsp;&emsp;<button type="button" onclick="location.href='https://defaultgroup.github.io/Number5/'">
 5번 문제</button>
-&emsp;&emsp;&emsp;<button type="button" onclick="location.href='http://mwultong.blogspot.com/2007/01/html-css-text-align-tag.html'">
+&emsp;&emsp;&emsp;<button type="button" onclick="location.href='https://defaultgroup.github.io/Number6/'">
 6번 문제</button>
 <br>
 <br>
 <br>
-<button type="button" onclick="location.href='http://mwultong.blogspot.com/2007/01/html-css-text-align-tag.html'">
+<button type="button" onclick="location.href='https://defaultgroup.github.io/Number7/'">
 7번 문제</button>
-&emsp;&emsp;&emsp;<button type="button" onclick="location.href='http://mwultong.blogspot.com/2007/01/html-css-text-align-tag.html'">
+&emsp;&emsp;&emsp;<button type="button" onclick="location.href='https://defaultgroup.github.io/Number8/'">
 8번 문제</button>
-&emsp;&emsp;&emsp;<button type="button" onclick="location.href='http://mwultong.blogspot.com/2007/01/html-css-text-align-tag.html'">
+&emsp;&emsp;&emsp;<button type="button" onclick="location.href='https://defaultgroup.github.io/Number9/'">
 9번 문제</button>
 <br>
 <br>
